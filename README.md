@@ -1,4 +1,4 @@
-This folder contains files for our final project that uses up to 35 functions to estimate total energy configurations that are likely to occur for a given dataset representing a set number of particles and computational restrictions.
+This folder contains files for our CHEM280 final project that uses up to 35 functions to estimate total energy configurations that are likely to occur for a given dataset representing a set number of particles and computational restrictions.
 
 
 The files contained in this repository are:
@@ -30,3 +30,9 @@ We ran 3 simulations with three step intervals: 2500 steps, 25000 steps, and 500
 A graph of the three variations of the MC simulations was created on google sheets to visualize the performance analysis of each. 
 
 Our results indicate that Python standard library is much slower for our program when comapred to using NumPy libraries and C++. Moving forward, it may be best to use NumPy and C++ for molecular dynamic simulations instead of the python standard library. 
+
+
+### Contributors 
+- Brandon T. Ton  - [brandontton](https://github.com/brandontton)
+- Joyce Yu - [joyceyu579](https://github.com/joyceyu579)
+- Timothy E. Nguyen - [nguyen-timothy](https://github.com/nguyen-timothy)
